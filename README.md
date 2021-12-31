@@ -1,6 +1,6 @@
 # eu-workspace
 For launching application in docker environment, you should use https://github.com/Panchos39/eu-workspace-environment-docker repository in the same folder, where eu-workspace was placed
-When you placed eu-ai-environment-docker in the same folder, as eu-workspace, to start jupyter-lab session, you have to use following command
+When you placed eu-workspace-environment-docker in the same folder, as eu-workspace, to start jupyter-lab session, you have to use following command
 ```
 docker-compose build
 ```
